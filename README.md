@@ -1,7 +1,7 @@
-# Python Functions & Data Processing Homework
+# Python Functions & Data Processing Homework 6
 ## CSC 2053 - Villanova University - Fall 2025
 
-**Due Date:** [Insert Date & Time]
+**Due Date:** Sunday, Nov. 16, 11:59 p.m. 
 
 Practice Python fundamentals with Villanova-themed functions!
 
@@ -148,16 +148,6 @@ This homework reinforces:
 
 ---
 
-## 🤝 Getting Help
-
-- **Review the labs** - You've already learned these concepts!
-- **Office Hours:** [Insert times]
-- **Discussion Forum:** Post questions on Blackboard
-- **Classmates:** Discuss concepts (but write your own code!)
-- **Cite your sources:** Any help received must be documented
-
----
-
 ## ⚠️ Academic Integrity
 
 - ✅ Discuss concepts with classmates
@@ -193,32 +183,5 @@ This homework reinforces:
 - Make sure you've implemented the function (not just `pass`)
 - Check that your return statement is inside the function
 - Verify your function name matches exactly
-
----
-
-## 📅 Timeline Suggestion
-
-- **Day 1-2:** Complete required functions 1-3
-- **Day 3-4:** Complete required functions 4-5
-- **Day 5:** Create custom functions
-- **Day 6:** Test everything, add comments, submit
-
-Don't rush - take time to understand each problem!
-
----
-
-## 🎉 After You Submit
-
-This homework prepares you for:
-- More complex Python projects
-- Data analysis with pandas
-- Working with real datasets
-- Building full applications
-
-Keep your notebook - you'll reference these concepts throughout the course!
-
----
-
-**Questions?** Post in the discussion forum or come to office hours!
 
 **Good luck!** 🎷🏀🦅
