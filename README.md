@@ -11,8 +11,7 @@ Practice Python fundamentals with Villanova-themed functions!
 
 Click the badge below to open the homework notebook directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/python-homework-USERNAME/blob/main/Python_Homework.ipynb)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CSC-2053-100-Fall25/homework6-python/blob/main/Python_Homework.ipynb)
 **Important:** Replace `USERNAME` in the URL above with your GitHub username, or use your actual repository URL.
 
 ---
@@ -78,7 +77,7 @@ In Google Colab: **File → Download → Download .ipynb**
 ### Step 2: Upload to GitHub
 
 ```bash
-# Clone your repository
+# Either simply upload into this repository via the GitHUb website, or clone your repository
 git clone [your-repo-url]
 cd [repo-name]
 
