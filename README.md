@@ -12,7 +12,6 @@ Practice Python fundamentals with Villanova-themed functions!
 Click the badge below to open the homework notebook directly in Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CSC-2053-100-Fall25/homework6-python/blob/main/Python_Homework.ipynb)
-**Important:** Replace `USERNAME` in the URL above with your GitHub username, or use your actual repository URL.
 
 ---
 
